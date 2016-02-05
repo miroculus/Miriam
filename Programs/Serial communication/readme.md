@@ -1,0 +1,1 @@
+Serial_003 is meant to be used with the software attached. It uses serial communication only with Arduino.

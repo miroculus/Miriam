@@ -1,0 +1,32 @@
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\bin\Debug\Miriam.exe.config
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\bin\Debug\Miriam.exe
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\bin\Debug\Miriam.pdb
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\obj\Debug\Miriam.csprojResolveAssemblyReference.cache
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\obj\Debug\Miriam.Properties.Resources.resources
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\obj\Debug\Miriam.csproj.GenerateResource.Cache
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\obj\Debug\Miriam.exe
+c:\users\juho\documents\visual studio 2015\Projects\Miriam\Miriam\obj\Debug\Miriam.pdb
+C:\Users\Juho\documents\visual studio 2015\Projects\Miriam\Miriam\obj\Debug\Miriam.Debug.resources
+C:\Users\Juho\documents\visual studio 2015\Projects\Miriam\Miriam\obj\Debug\Miriam.Control.resources
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\bin\Debug\Miriam.exe.config
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\obj\Debug\Miriam.exe
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\obj\Debug\Miriam.pdb
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\bin\Debug\Miriam.exe
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\bin\Debug\Miriam.pdb
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\obj\Debug\Miriam.csprojResolveAssemblyReference.cache
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\obj\Debug\Miriam.Control.resources
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\obj\Debug\Miriam.Debug.resources
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\obj\Debug\Miriam.Properties.Resources.resources
+C:\Users\Juho\Desktop\Wifi_003\Miriam\Miriam\obj\Debug\Miriam.csproj.GenerateResource.Cache
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam\Miriam\bin\Debug\Miriam.exe.config
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam\Miriam\obj\Debug\Miriam.exe
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam\Miriam\obj\Debug\Miriam.pdb
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\bin\Debug\Miriam_Serial.exe.config
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\bin\Debug\Miriam_Serial.exe
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\bin\Debug\Miriam_Serial.pdb
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam.csprojResolveAssemblyReference.cache
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam.Control.resources
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.Properties.Resources.resources
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam.csproj.GenerateResource.Cache
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.exe
+C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.pdb
