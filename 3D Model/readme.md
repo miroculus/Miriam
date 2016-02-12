@@ -1,5 +1,9 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf340
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+Miriam is composed of 3 main pieces:
+
+base.stl is 275 x 132 x 75 mm 
+upper.stl is 191 x 132 x 35 mm
+cover.stl is 6 x 120 x 67 mm
+
+we also included a grid to isolate the LEDs and under grid.stl 99 x 5 x 144 mm
+we also included several separators
+
