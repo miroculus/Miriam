@@ -32,7 +32,7 @@ Credits
 --------
 Miriam is an open source project, supported by Miroculus. The team is led by Juho Terrijarvi
 
-Icon and image designed by Miroculus
+Icon and image designed by Miroculus.
 
 
 
