@@ -4,6 +4,3 @@ base.stl is 275 x 132 x 75 mm
 upper.stl is 191 x 132 x 35 mm
 cover.stl is 6 x 120 x 67 mm
 
-we also included a grid to isolate the LEDs and under grid.stl 99 x 5 x 144 mm
-we also included several separators
-

@@ -5,15 +5,15 @@ Miriam
 
 
 * Miriam is an open-source instrument for isothermal amplification reactions based on the [Arduino](http://www.arduino.cc/) platform. Miriam can run assays based on LAMP or Elisa protocols by running the master program locally on your computer and connecting it via USB or through the [Miroculus](http://www.miroculus.com/) interface via WiFi, that will be available during the summer of 2016.
-The open-source master program can be downloaded for free at http://www.github.com/miroculus
+The open-source master program for serial interface can be downloaded for free at http://www.github.com/miroculus. From there also the different firmwares for WiFi communication are available.
 
-* Comparison of negative and positive controls in qPCR and Miriam:
+* Comparison of negative and positive controls in qPCR and Miriam (y, RFU and x, cycle (2min)):
 
 ![signals](http://miroculus.com/static/img/pos_negs.jpg)
 
-* The optics have been designed for this calcein dye: http://loopamp.eiken.co.jp/e/products/fluore/index.html
+* The optics have been designed for this calcein dye: http://loopamp.eiken.co.jp/e/products/fluore/index.html. 
 
-* The lower concentration we have validated is 2amol:
+* The lower concentration we have validated is 2amol (y, RFU and x, cycle (2min)):
 
 ![concentration](http://miroculus.com/static/img/2amol.jpg)
 
@@ -23,7 +23,7 @@ The open-source master program can be downloaded for free at http://www.github.c
 
 * For more complex requests and technical discussion send us an email to miriam@miroculus.com
 
-* If you're interested in modifying or extending the Miriam platform, we strongly suggest you to send us an email discussing your ideas. That way you can coordinate with the Miroculus Team and others, giving your work a higher chance of being integrated into the official release
+* If you're interested in modifying or extending the Miriam platform, we strongly suggest you to send us an email discussing your ideas. That way you can coordinate with the Miroculus' Team and others, giving your work a higher chance of being integrated into the official release
 
 Installation
 ------------
