@@ -31,7 +31,7 @@ Detailed instructions are coming in april 2016
 
 Credits
 --------
-Miriam is an open source project, supported by Miroculus. The team is led by Juho Terrijarvi
+Miriam is an open source project, supported by Miroculus in collaboration with Arduino (Sweden). The team is led by Juho Terrijarvi.
 
 Icon and image designed by Miroculus.
 
