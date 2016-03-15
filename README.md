@@ -13,7 +13,7 @@ The open-source master program for serial interface can be downloaded for free a
 
 * The optics have been designed for this calcein dye: http://loopamp.eiken.co.jp/e/products/fluore/index.html. 
 
-* The lower concentration we have validated is 2amol (y, RFU and x, cycle (2min)):
+* The lower concentration we have validated is 2amol (y, Normalized signal and x, cycle (2min)):
 
 ![concentration](http://miroculus.com/static/img/2amol.jpg)
 
