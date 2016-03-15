@@ -11,6 +11,7 @@ The open-source master program can be downloaded for free at http://www.github.c
 
 ![signals](http://miroculus.com/static/img/pos_negs.jpg)
 
+* The optics have been designed for this calcein dye: http://loopamp.eiken.co.jp/e/products/fluore/index.html
 
 * The lower concentration we have validated is 2amol:
 
