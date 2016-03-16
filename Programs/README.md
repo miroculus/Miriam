@@ -11,8 +11,8 @@ These programs are distributed in the hope that they will be useful, but WITHOUT
     
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-Serial_003 is meant for communication between computer and Miriam via USB cable and string messages
-Wifi_003 is for interaction between controller and Miriam over the same wifi network
-Wifi_004 webservice controls Miriam
+* Serial_003 is meant for communication between computer and Miriam via USB cable and string messages
+* Wifi_003 is for interaction between controller and Miriam over the same wifi network
+* Wifi_004 webservice controls Miriam
 
 
