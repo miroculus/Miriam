@@ -317,6 +317,11 @@ void setPin(int outputPin) {
 
 void Read_Assay() {
 
+  //set the PIDs to zero to boost LED power
+  Output_MIDDLE = 0;
+  Output_UPPER = 0;
+  computePIDs();
+
   digitalWrite(22,HIGH);
   delay(500);
   

@@ -59,7 +59,7 @@ namespace Miriam
             // 
             this.ButtonStart.Location = new System.Drawing.Point(512, 9);
             this.ButtonStart.Name = "ButtonStart";
-            this.ButtonStart.Size = new System.Drawing.Size(113, 46);
+            this.ButtonStart.Size = new System.Drawing.Size(113, 98);
             this.ButtonStart.TabIndex = 12;
             this.ButtonStart.Text = "Start";
             this.ButtonStart.UseVisualStyleBackColor = true;
@@ -156,7 +156,7 @@ namespace Miriam
             // 
             // AskHeat
             // 
-            this.AskHeat.Location = new System.Drawing.Point(631, 9);
+            this.AskHeat.Location = new System.Drawing.Point(393, 61);
             this.AskHeat.Name = "AskHeat";
             this.AskHeat.Size = new System.Drawing.Size(113, 46);
             this.AskHeat.TabIndex = 23;
@@ -168,10 +168,11 @@ namespace Miriam
             // 
             this.Data.FormattingEnabled = true;
             this.Data.ItemHeight = 20;
-            this.Data.Location = new System.Drawing.Point(12, 817);
+            this.Data.Location = new System.Drawing.Point(393, 225);
             this.Data.Name = "Data";
-            this.Data.Size = new System.Drawing.Size(805, 164);
+            this.Data.Size = new System.Drawing.Size(61, 84);
             this.Data.TabIndex = 24;
+            this.Data.Visible = false;
             // 
             // Results
             // 
@@ -181,13 +182,14 @@ namespace Miriam
             this.Results.Legends.Add(legend1);
             this.Results.Location = new System.Drawing.Point(12, 511);
             this.Results.Name = "Results";
-            this.Results.Size = new System.Drawing.Size(805, 300);
+            this.Results.Size = new System.Drawing.Size(805, 484);
             this.Results.TabIndex = 25;
             this.Results.Text = "chart1";
+            this.Results.Visible = false;
             // 
             // ButtonWrite
             // 
-            this.ButtonWrite.Location = new System.Drawing.Point(512, 61);
+            this.ButtonWrite.Location = new System.Drawing.Point(631, 9);
             this.ButtonWrite.Name = "ButtonWrite";
             this.ButtonWrite.Size = new System.Drawing.Size(113, 46);
             this.ButtonWrite.TabIndex = 26;
@@ -217,7 +219,7 @@ namespace Miriam
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.ClientSize = new System.Drawing.Size(840, 1007);
+            this.ClientSize = new System.Drawing.Size(840, 519);
             this.Controls.Add(this.COM);
             this.Controls.Add(this.COM_label);
             this.Controls.Add(this.ButtonWrite);

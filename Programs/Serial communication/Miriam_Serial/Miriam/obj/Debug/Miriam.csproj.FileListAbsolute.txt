@@ -30,3 +30,12 @@ C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Seri
 C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam.csproj.GenerateResource.Cache
 C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.exe
 C:\Users\Juho\Documents\GitHub\miriam\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.pdb
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\bin\Debug\Miriam_Serial.exe.config
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.exe
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.pdb
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\bin\Debug\Miriam_Serial.exe
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\bin\Debug\Miriam_Serial.pdb
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam.csprojResolveAssemblyReference.cache
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam.Control.resources
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam_Serial.Properties.Resources.resources
+C:\Users\Juho\Documents\GitHub\miriam_old\Miriam 0.3\Programs\Serial_003\Miriam_Serial\Miriam\obj\Debug\Miriam.csproj.GenerateResource.Cache

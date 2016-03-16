@@ -83,7 +83,7 @@ namespace Miriam
                 Plate.RowHeadersWidth = Plate.RowHeadersWidth + 1;
             }
 
-            Results.Visible = true;
+            //Results.Visible = true;
 
 
         }
@@ -104,6 +104,10 @@ namespace Miriam
             serialPort.StopBits = StopBits.One;
             serialPort.BaudRate = 9600;
 
+            // Set the read/write timeouts
+            serialPort.ReadTimeout = 500;
+            serialPort.WriteTimeout = 500;
+
             try
             {
                 serialPort.Open();
@@ -111,6 +115,7 @@ namespace Miriam
                 serialPort.DiscardInBuffer();
 
                 String ReceivedData;
+
                 //RecievedData = serialPort.ReadLine();
                 //serialPort.DataReceived += new SerialDataReceivedEventHandler(responseHandler);
                 serialPort.Write("M " + CboxTempM.Text + "\r\n");
@@ -183,6 +188,8 @@ namespace Miriam
             }
             catch (Exception exc)
             {
+                MessageBox.Show("Serial could not be opened, please check that the device is correct one");
+                serialPort.Close();
             }
 
         }
@@ -215,6 +222,10 @@ namespace Miriam
             serialPort.Parity = Parity.None;
             serialPort.StopBits = StopBits.One;
             serialPort.BaudRate = 9600;
+
+            // Set the read/write timeouts
+            serialPort.ReadTimeout = 500;
+            serialPort.WriteTimeout = 500;
 
             try
             {
@@ -249,6 +260,8 @@ namespace Miriam
             }
             catch (Exception exc)
             {
+                MessageBox.Show("Serial could not be opened, please check that the device is correct one");
+                serialPort.Close();
             }
         }
 
@@ -268,6 +281,9 @@ namespace Miriam
         {
             if(started == false)
             {
+                Results.Visible = true;
+                Form f = Control.ActiveForm;
+                f.Size = new Size(f.Size.Width, 700);
                 started = true;
                 Results.Visible = true;
                 port = COM.Text;
@@ -277,6 +293,41 @@ namespace Miriam
 
                 duration = localDate.Hour * 60 * 60 + localDate.Minute * 60 + localDate.Second +
                     Convert.ToInt32(CboxDuration.Text) * 60;
+
+                Boolean noneFound = true;
+                List<String> dupl = new List<String>();
+                // clear duplicates
+                for (int i = 0; i < Plate.RowCount; i++)
+                {
+                    for (int j = 0; j < Plate.ColumnCount; j++)
+                    {
+                        if (Plate.Rows[i].Cells[j].Value != null)
+                        {
+                            if (!Plate.Rows[i].Cells[j].Value.ToString().Equals(""))
+                            {
+                                for (int k = 0; k < dupl.Count; k++)
+                                {
+                                    if (dupl[k].Equals(Plate.Rows[i].Cells[j].Value.ToString()))
+                                    {
+                                        Plate.Rows[i].Cells[j].Value = Plate.Rows[i].Cells[j].Value.ToString() + "_";
+                                    }
+
+                                }
+                                dupl.Add(Plate.Rows[i].Cells[j].Value.ToString());
+                                noneFound = false;
+                            }
+                        } else
+                        {
+                            Plate.Rows[i].Cells[j].Value = "";
+                        }
+                        
+                    }
+                }
+                
+                if (noneFound)
+                {
+                    Plate.Rows[0].Cells[0].Value = "TimeTrack";
+                }
 
                 List<int> list = new List<int>();
                 int counter = 3;
@@ -314,6 +365,8 @@ namespace Miriam
                 clr[9] = Color.Gray;
 
                 int clrsUsed = 0;
+
+                
 
                 for (int i = 0; i < list.Count; i++)
                 {
@@ -406,6 +459,10 @@ namespace Miriam
                 serialPort.StopBits = StopBits.One;
                 serialPort.BaudRate = 9600;
 
+                // Set the read/write timeouts
+                serialPort.ReadTimeout = 10000;
+                serialPort.WriteTimeout = 500;
+
                 try
                 {
                     serialPort.Open();
@@ -473,6 +530,8 @@ namespace Miriam
                 }
                 catch (Exception exc)
                 {
+                    MessageBox.Show("Serial could not be opened, please check that the device is correct one");
+                    serialPort.Close();
                 }
 
 
@@ -497,19 +556,27 @@ namespace Miriam
 
         private void ButtonWrite_Click(object sender, EventArgs e)
         {
-            //before your loop
-            var csv = new StringBuilder();
-
-            for(int i = 0; i<Data.Items.Count;i++)
+            try
             {
+
+                //before your loop
+                var csv = new StringBuilder();
+
+                for(int i = 0; i<Data.Items.Count;i++)
+                {
                 
-                var newLine = string.Format(Data.Items[i].ToString() + Environment.NewLine);
-                csv.Append(newLine);
+                    var newLine = string.Format(Data.Items[i].ToString() + Environment.NewLine);
+                    csv.Append(newLine);
+                }
+
+
+                //after your loop
+                File.WriteAllText(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/data.csv", csv.ToString());
             }
-
-
-            //after your loop
-            File.WriteAllText(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/data.csv", csv.ToString());
+            catch (IOException)
+            {
+                MessageBox.Show("File not writable");
+            }
         }
 
 
