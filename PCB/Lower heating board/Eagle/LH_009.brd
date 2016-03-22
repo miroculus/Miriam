@@ -233,12 +233,10 @@
 <hole x="118.38" y="80.24" drill="5.08"/>
 <text x="64.5046" y="93.5768" size="1.778" layer="1" font="vector" ratio="15">Miriam</text>
 <text x="64.1204" y="95.2532" size="1.778" layer="16" font="vector" ratio="15" rot="MR180">Miriam</text>
-<text x="71.755" y="2.413" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">20150911</text>
-<text x="57.404" y="2.413" size="1.778" layer="1" font="vector" ratio="15">20150911</text>
+<text x="102.9208" y="2.6162" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">20150911 Licensed under CERN OHL v.1.2</text>
+<text x="43.5356" y="2.54" size="1.778" layer="1" font="vector" ratio="15">20150911 Licensed under CERN OHL v.1.2</text>
 <rectangle x1="56.642" y1="91.948" x2="81.407" y2="96.5962" layer="41"/>
 <rectangle x1="56.642" y1="91.948" x2="81.407" y2="96.5962" layer="42"/>
-<rectangle x1="56.896" y1="1.778" x2="72.39" y2="4.699" layer="41"/>
-<rectangle x1="56.896" y1="1.778" x2="72.39" y2="4.699" layer="42"/>
 <text x="131.957" y="45.504" size="1.27" layer="21" font="vector" rot="R90">Therm</text>
 <text x="131.937" y="51.954" size="1.27" layer="21" rot="R90">GND</text>
 <hole x="3" y="94.48" drill="3.2"/>
@@ -356,8 +354,10 @@
 <text x="4.2656" y="37.5186" size="1.778" layer="25" font="vector" ratio="15" rot="R90">Lower heater 009</text>
 <text x="64.0188" y="95.431" size="1.778" layer="26" font="vector" ratio="15" rot="MR180">Miriam</text>
 <text x="64.5046" y="93.653" size="1.778" layer="25" font="vector" ratio="15">Miriam</text>
-<text x="57.9628" y="2.3114" size="1.778" layer="25" font="vector" ratio="15">20150911</text>
-<text x="70.7644" y="2.4892" size="1.778" layer="26" font="vector" ratio="15" rot="MR0">20150911</text>
+<text x="43.5102" y="2.54" size="1.778" layer="25" font="vector" ratio="15">20150911 Licensed under CERN OHL v.1.2</text>
+<text x="102.9716" y="2.6162" size="1.778" layer="26" font="vector" ratio="15" rot="MR0">20150911 Licensed under CERN OHL v.1.2</text>
+<rectangle x1="42.3926" y1="1.4478" x2="103.9876" y2="5.1562" layer="41"/>
+<rectangle x1="42.3164" y1="1.4478" x2="103.9876" y2="5.207" layer="42"/>
 </plain>
 <libraries>
 <library name="con-phoenix-508">

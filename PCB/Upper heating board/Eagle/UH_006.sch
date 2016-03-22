@@ -616,6 +616,15 @@ ALEJANDRO V. BOFILL</text>
 <text x="17.78" y="114.3" size="2.54" layer="94">TEMPERATURE SENSOR</text>
 <text x="218.44" y="20.32" size="2.54" layer="94" font="vector" rot="MR180">Miriam cover heater</text>
 <text x="218.44" y="15.24" size="2.54" layer="94" font="vector" rot="MR180">20150720</text>
+<text x="165.1" y="30.48" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
 </plain>
 <instances>
 <instance part="P+2" gate="1" x="40.64" y="160.02" smashed="yes">
@@ -624,7 +633,7 @@ ALEJANDRO V. BOFILL</text>
 <instance part="GND5" gate="1" x="55.88" y="142.24" smashed="yes">
 <attribute name="VALUE" x="53.34" y="139.7" size="1.778" layer="96"/>
 </instance>
-<instance part="FD1" gate="G$1" x="220.98" y="43.18"/>
+<instance part="FD1" gate="G$1" x="215.9" y="63.5"/>
 <instance part="FRAME2" gate="G$1" x="2.54" y="2.54" smashed="yes">
 <attribute name="SHEET" x="233.045" y="7.62" size="2.54" layer="94"/>
 </instance>
@@ -636,8 +645,8 @@ ALEJANDRO V. BOFILL</text>
 <attribute name="VALUE" x="25.4" y="81.28" size="1.778" layer="96"/>
 </instance>
 <instance part="TH1" gate="G$1" x="27.94" y="96.52"/>
-<instance part="FD2" gate="G$1" x="228.6" y="43.18"/>
-<instance part="FD3" gate="G$1" x="236.22" y="43.18"/>
+<instance part="FD2" gate="G$1" x="223.52" y="63.5"/>
+<instance part="FD3" gate="G$1" x="231.14" y="63.5"/>
 </instances>
 <busses>
 </busses>

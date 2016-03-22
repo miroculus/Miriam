@@ -52,6 +52,9 @@ Miriam is an open source project, supported by Miroculus in collaboration with A
 
 Icon and image designed by Miroculus.
 
+http://www.miroculus.com/static/img/calc.jpg
+http://www.miroculus.com/static/img/gam.jpg
+
 
 
 

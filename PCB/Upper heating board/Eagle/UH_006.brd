@@ -135,7 +135,7 @@
 <board>
 <plain>
 <text x="54.7086" y="96.1384" size="1.778" layer="16" font="vector" ratio="15" rot="MR180">Miriam</text>
-<text x="71.501" y="0.762" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">20150918</text>
+<text x="92.6084" y="0.7112" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">20150918 Licensed under CERN OHL v.1.2</text>
 <text x="131.794" y="55.508" size="1.27" layer="21" font="vector" rot="R270">+12V</text>
 <text x="131.794" y="44.459" size="1.27" layer="21" rot="R270">TH1</text>
 <hole x="3" y="94.48" drill="3.2"/>
@@ -146,7 +146,6 @@
 <text x="131.794" y="49.539" size="1.27" layer="21" font="vector" rot="R270">GND</text>
 <text x="131.794" y="40.236" size="1.27" layer="21" font="vector" rot="R270">UP_HEAT</text>
 <rectangle x1="40.6182" y1="93.827" x2="76.61" y2="96.748" layer="42"/>
-<rectangle x1="56.896" y1="0.508" x2="71.755" y2="2.794" layer="42"/>
 <wire x1="0" y1="5" x2="5" y2="0" width="0.02" layer="20" curve="90"/>
 <wire x1="5" y1="0" x2="137.76" y2="0" width="0.02" layer="20"/>
 <wire x1="142.76" y1="5" x2="137.76" y2="0" width="0.02" layer="20" curve="-90"/>
@@ -159,7 +158,8 @@
 <wire x1="142.76" y1="92.48" x2="142.76" y2="5" width="0.02" layer="20"/>
 <text x="1.6764" y="36.3248" size="1.778" layer="26" font="vector" ratio="15" rot="MR90">Upper heater 006</text>
 <text x="54.8102" y="96.24" size="1.778" layer="26" font="vector" ratio="15" rot="MR180">Miriam</text>
-<text x="71.2724" y="0.5842" size="1.778" layer="26" font="vector" ratio="15" rot="MR0">20150918</text>
+<text x="92.6592" y="0.762" size="1.778" layer="26" font="vector" ratio="15" rot="MR0">20150918 Licensed under CERN OHL v.1.2</text>
+<rectangle x1="32.3088" y1="0.3556" x2="93.98" y2="3.0988" layer="42"/>
 </plain>
 <libraries>
 <library name="con-phoenix-508">

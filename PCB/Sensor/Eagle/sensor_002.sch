@@ -7262,6 +7262,87 @@ ALEJANDRO V. BOFILL
 ARDUINO</text>
 <text x="488.95" y="-347.98" size="2.54" layer="94" font="vector">AMPLIFIERS 6</text>
 <text x="488.95" y="22.86" size="2.54" layer="94" font="vector">MULTILPLEXORS</text>
+<text x="-99.06" y="27.94" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="165.1" y="27.94" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="345.44" y="12.7" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="-99.06" y="-154.94" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="165.1" y="-154.94" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="434.34" y="-154.94" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="-99.06" y="-340.36" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="165.1" y="-340.36" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="434.34" y="-340.36" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="-261.62" y="2.54" smashed="yes">

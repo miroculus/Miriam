@@ -296,6 +296,20 @@ shield
 007</text>
 <text x="12.7438" y="19.1054" size="1.016" layer="26" ratio="15" rot="MR90">20150923</text>
 <text x="13.6006" y="19.1854" size="1.016" layer="25" ratio="15" rot="R90">20150923</text>
+<text x="51.7144" y="19.1516" size="1.016" layer="16" rot="MR0">Licensed
+under
+CERN
+OHL v.1.2</text>
+<text x="44.4754" y="19.1516" size="1.016" layer="25">Licensed
+under
+CERN
+OHL v.1.2</text>
+<text x="44.4754" y="19.1516" size="1.016" layer="1">Licensed
+under
+CERN
+OHL v.1.2</text>
+<rectangle x1="44.2722" y1="18.796" x2="51.9938" y2="24.9936" layer="41"/>
+<rectangle x1="44.2468" y1="18.7706" x2="52.0192" y2="24.9682" layer="42"/>
 </plain>
 <libraries>
 <library name="SmartPrj">
@@ -2501,7 +2515,7 @@ design rules under a new name.</description>
 <via x="60.4774" y="44.1452" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>
 <via x="62.2554" y="30.226" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>
 <via x="16.4084" y="47.5996" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>
-<via x="46.7868" y="21.6154" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>
+<via x="39.7764" y="21.9456" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>
 <via x="16.0782" y="4.8006" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>
 <via x="73.406" y="11.1506" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>
 <via x="64.9478" y="12.9032" extent="1-16" drill="0.5" diameter="0.4064" shape="octagon"/>

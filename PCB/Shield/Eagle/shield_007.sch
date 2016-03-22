@@ -16161,6 +16161,24 @@ LOWER HEATER THERM</text>
 <text x="147.32" y="88.9" size="2.54" layer="94">LED MOSFET</text>
 <text x="152.4" y="27.94" size="1.778" layer="91">LED MOSFET</text>
 <text x="40.64" y="45.72" size="2.54" layer="94">POWER SUPPLY FOR BLT OR WIFI CONNECTOR</text>
+<text x="-101.6" y="27.94" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
+<text x="172.72" y="27.94" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
 </plain>
 <instances>
 <instance part="JP3" gate="A" x="-147.32" y="111.76"/>

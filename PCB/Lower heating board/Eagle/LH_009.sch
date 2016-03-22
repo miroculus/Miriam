@@ -595,6 +595,15 @@ ALEJANDRO V. BOFILL
 <wire x1="-236.22" y1="241.3" x2="-236.22" y2="220.98" width="0.1524" layer="94"/>
 <wire x1="-236.22" y1="220.98" x2="-243.84" y2="220.98" width="0.1524" layer="94"/>
 <wire x1="-243.84" y1="220.98" x2="-243.84" y2="241.3" width="0.1524" layer="94"/>
+<text x="-99.06" y="124.46" size="1.778" layer="91">Copyright Miroculus 2016.
+This documentation describes Open Hardware and is licensed under the
+CERN OHL v. 1.2.
+You may redistribute and modify this documentation under the terms of the
+CERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed
+WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
+MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
+PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
+conditions</text>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="-261.62" y="83.82" smashed="yes">

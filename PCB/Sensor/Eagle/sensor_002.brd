@@ -150,10 +150,8 @@
 <text x="62.4688" y="94.4396" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">Miriam</text>
 <rectangle x1="58.3572" y1="78.6462" x2="61.9132" y2="111.6662" layer="41" rot="R90"/>
 <rectangle x1="58.3572" y1="78.6462" x2="61.9132" y2="111.6662" layer="42" rot="R90"/>
-<text x="56.9588" y="3.0696" size="1.778" layer="1" font="vector" ratio="15" rot="R180">20150720</text>
-<text x="56.8388" y="1.3196" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">20150720</text>
-<rectangle x1="50.9272" y1="-14.1838" x2="54.4832" y2="18.8362" layer="41" rot="R90"/>
-<rectangle x1="50.9272" y1="-14.1838" x2="54.4832" y2="18.8362" layer="42" rot="R90"/>
+<text x="90.9588" y="3.0696" size="1.778" layer="1" font="vector" ratio="15" rot="R180">20150720 Licensed under CERN OHL v.1.2</text>
+<text x="90.8388" y="1.3196" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">20150720 Licensed under CERN OHL v.1.2</text>
 <wire x1="0" y1="5" x2="0" y2="92.48" width="0.02" layer="20"/>
 <wire x1="0" y1="92.48" x2="5" y2="97.48" width="0.02" layer="20" curve="-90"/>
 <wire x1="5" y1="97.48" x2="137.76" y2="97.48" width="0.02" layer="20"/>
@@ -163,8 +161,10 @@
 <text x="3.1496" y="33.5412" size="1.778" layer="25" font="vector" ratio="15" rot="R90">Sensor board 002</text>
 <text x="62.9188" y="96.1996" size="1.778" layer="25" font="vector" ratio="15" rot="R180">Miriam</text>
 <text x="62.4688" y="94.4396" size="1.778" layer="26" font="vector" ratio="15" rot="MR0">Miriam</text>
-<text x="56.8388" y="1.3196" size="1.778" layer="26" font="vector" ratio="15" rot="MR0">20150720</text>
-<text x="56.9588" y="3.0696" size="1.778" layer="25" font="vector" ratio="15" rot="R180">20150720</text>
+<text x="90.8388" y="1.3196" size="1.778" layer="26" font="vector" ratio="15" rot="MR0">20150720 Licensed under CERN OHL v.1.2</text>
+<text x="90.9588" y="3.0696" size="1.778" layer="25" font="vector" ratio="15" rot="R180">20150720 Licensed under CERN OHL v.1.2</text>
+<rectangle x1="30" y1="1" x2="92" y2="4" layer="41"/>
+<rectangle x1="30" y1="1" x2="92" y2="4" layer="42"/>
 </plain>
 <libraries>
 <library name="rcl">
