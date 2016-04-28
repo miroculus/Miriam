@@ -1251,7 +1251,7 @@ void serialEvent() {
   
 }
 
-// serial event for bluetooth
+// serial event for wifi
 void serialEvent1() {
   if (Serial1.available()) {
     // Always when something has been received from Serial1 something is to be printed in the loop
