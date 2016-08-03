@@ -42,9 +42,9 @@ The open-source master program for serial interface can be downloaded for free a
 
 Installation
 ------------
-Detailed instructions are coming in april 2016
-With pictures when assembling the new Miriam
+3D print the printable parts, sand them to make them fit. Assemble the boards as presented in the image below.
 http://www.miroculus.com/static/img/miriam_screws.jpg
+The screws are attached to the cover and the base with heat durable epoxy.
 
 Credits
 --------
