@@ -26,7 +26,7 @@ The open-source master program for serial interface can be found [here](http://w
 
 * The lower concentration we have validated is 2amol (y, Normalized signal and x, cycle (1min)):
 
-![concentration](http://miroculus.com/static/img/2amol.png)
+![concentration](http://www.miroculus.com/static/img/2amol.png)
 
 * For more information, you can contact us by completing the form [here] (http://www.miroculus.com/about/index.html#contact). You can also follow Miroculus on [twitter](https://twitter.com/miroculus) or like us on [facebook](https://www.facebook.com/miroculus)
 
@@ -37,7 +37,7 @@ The open-source master program for serial interface can be found [here](http://w
 Installation
 ------------
 3D print the printable parts, sand them to make them fit. Assemble the boards as presented in the image below.
-![screws](http://miroculus.com/static/img/screw.png)
+![screws](http://www.miroculus.com/static/img/screws.png)
 
 The screws are attached to the cover and the base with heat durable epoxy.
 
@@ -47,8 +47,6 @@ Miriam is an open source project, supported by Miroculus in collaboration with A
 
 Icon and image designed by Miroculus.
 
-http://www.miroculus.com/static/img/calc.jpg
-http://www.miroculus.com/static/img/gam.jpg
 
 
 
