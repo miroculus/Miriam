@@ -1,7 +1,7 @@
 Wifi_003
 ========
 
-This SW / FW are meant for communication over the same wifi connection between a computer and Miriam. Miriam is first connected with a USB cable to the controlling computer and the wifi details are given to Miriam and the IP address when connected read. Messaging between the two happen via string messages in http format.
+This SW / FW combination is meant for communication over the same WIFI connection between a computer and Miriam. Miriam is first connected with a USB cable to the controlling computer and the WIFI details are given to Miriam and the IP address when connected read. Messaging between the two happen via string messages in http format.
 - SW 'R' (read assay) - FW 'A1,A2,A3...E12'
 - SW 'i' (info) - FW 'outputMiddle, outputUpper, temperatureMiddle, temperatureUpper, temperatureMiddleC, temperatureUpperC'
 - SW 'U param' (upper wanted temperature, i.e. U 80) - FW 'temperatureUpperSet'
