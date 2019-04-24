@@ -16319,7 +16319,7 @@ conditions</text>
 <instance part="P+34" gate="1" x="78.74" y="83.82" smashed="yes">
 <attribute name="VALUE" x="80.645" y="86.36" size="1.778" layer="96" rot="R180"/>
 </instance>
-<instance part="+3V1" gate="G$1" x="-15.24" y="104.14"/>
+<instance part="+3V1" gate="G$1" x="-15.24" y="114.3"/>
 <instance part="R8" gate="G$1" x="149.86" y="58.42" rot="R180"/>
 <instance part="R9" gate="G$1" x="157.48" y="50.8" rot="R90"/>
 <instance part="IC3" gate="G$1" x="167.64" y="60.96" smashed="yes">
@@ -16568,11 +16568,11 @@ conditions</text>
 <pinref part="GND15" gate="1" pin="GND"/>
 <wire x1="-78.74" y1="99.06" x2="-78.74" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="WIFI" gate="G$1" pin="GND"/>
-<wire x1="-78.74" y1="96.52" x2="-73.66" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="-73.66" y1="96.52" x2="-68.58" y2="96.52" width="0.1524" layer="91"/>
-<wire x1="-73.66" y1="96.52" x2="-73.66" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="-78.74" y1="96.52" x2="-68.58" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="-78.74" y1="96.52" x2="-78.74" y2="93.98" width="0.1524" layer="91"/>
 <pinref part="WIFI" gate="G$1" pin="GPIO15"/>
-<wire x1="-73.66" y1="93.98" x2="-68.58" y2="93.98" width="0.1524" layer="91"/>
+<wire x1="-78.74" y1="93.98" x2="-68.58" y2="93.98" width="0.1524" layer="91"/>
+<junction x="-78.74" y="96.52"/>
 </segment>
 </net>
 <net name="IOREF" class="0">
@@ -17407,7 +17407,7 @@ conditions</text>
 <segment>
 <pinref part="R11" gate="G$1" pin="1"/>
 <pinref part="+3V1" gate="G$1" pin="+3V3"/>
-<wire x1="-15.24" y1="101.6" x2="-15.24" y2="96.52" width="0.1524" layer="91"/>
+<wire x1="-15.24" y1="111.76" x2="-15.24" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="WIFI" gate="G$1" pin="VCC"/>
 <wire x1="-15.24" y1="96.52" x2="-15.24" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="-35.56" y1="96.52" x2="-30.48" y2="96.52" width="0.1524" layer="91"/>
@@ -17420,6 +17420,9 @@ conditions</text>
 <wire x1="-30.48" y1="93.98" x2="-30.48" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="R15" gate="G$1" pin="2"/>
 <wire x1="-30.48" y1="106.68" x2="-55.88" y2="106.68" width="0.1524" layer="91"/>
+<junction x="-30.48" y="96.52"/>
+<junction x="-22.86" y="96.52"/>
+<junction x="-15.24" y="96.52"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -17461,6 +17464,7 @@ conditions</text>
 <wire x1="-91.44" y1="81.28" x2="-91.44" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="WIFI" gate="G$1" pin="RX"/>
 <wire x1="-68.58" y1="81.28" x2="-91.44" y2="81.28" width="0.1524" layer="91"/>
+<junction x="-91.44" y="81.28"/>
 </segment>
 </net>
 <net name="N$6" class="0">
