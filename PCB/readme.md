@@ -1,7 +1,11 @@
+# PCBs
+
 The PCBs have been drawn with Eagle software 7.3.0
 
 PCB details are in separate readme files in correct subfolders.
 
-List of components required can be found: https://docs.google.com/spreadsheets/d/1FHOCzn1yYIiR1e6U7Qw9gCIf-KbuHXV_sOKSGwqRR3c/edit?usp=sharing
+The Bills of material can be found under folder BOM. Datasheets of the main components are under folder Components.
 
-MKDSN connectors are just for PCB manufacturing to create the vias as input. They are not used but the wires are directly soldered to the vias.
+Some of the component layouts can be found under Library folder that houses the Eagle .lbrs
+
+Some of the PCBs contain MKDSN connectors. They are used just to create the vias for soldering.
