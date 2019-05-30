@@ -22,7 +22,7 @@ The detection optics have been designed for [calcein dye](http://loopamp.eiken.c
 
 In the performance testing of Miriam, the detection limit for DNA using LAMP as amplification platform has been 2amol in 10ul of sample (figure 1).
 
-![](C:/Users/Juho/Documents/GitHub/Miriam/detection_limit.PNG)
+![](detection_limit.PNG)
 
 **Figure 1.** LAMP reaction with 2amol DNA input, fluorescence measured every 2 minutes (y, Normalized signal and x, cycle (2 min).
 
