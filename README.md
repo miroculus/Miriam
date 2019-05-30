@@ -18,7 +18,7 @@ Miriam is an open-source instrument for isothermal amplification reactions. The 
 
 ![](miriam.jpg)
 
-The detection optics have been designed for [calcein dye](http://loopamp.eiken.co.jp/e/products/fluore/index.html). The selected LED is an angle SMD led with peak wavelength 461nm. The photodiode is an RGB photodiode most sensitive to green light. The optics also include an emission filter utilized in theatrical lighting.
+The detection optics have been designed for [calcein dye](http://loopamp.eiken.co.jp/e/products/fluore/index.html). The selected LED is an angle SMD led with peak wavelength 461nm. The photodiode is an RGB photodiode most sensitive to green light. The optics also include an emission filter utilized in theatrical lighting.  The development and selection of components is further described in a [Master's thesis](http://lutpub.lut.fi/handle/10024/159386) done from miriam. 
 
 In the performance testing of Miriam, the detection limit for DNA using LAMP as amplification platform has been 2amol in 10ul of sample (figure 1).
 
