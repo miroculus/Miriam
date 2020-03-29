@@ -6564,7 +6564,7 @@ Created 2014-07-09, Karrer Zheng&lt;br&gt;
 </variantdefs>
 <classes>
 <class number="0" name="default" width="0.254" drill="0.4064">
-<clearance class="0" value="0.254"/>
+<clearance class="0" value="0.127"/>
 </class>
 <class number="1" name="power" width="0.4064" drill="0.4064">
 <clearance class="1" value="0.3048"/>
@@ -7698,7 +7698,7 @@ conditions</text>
 <busses>
 </busses>
 <nets>
-<net name="GND" class="2">
+<net name="GND" class="0">
 <segment>
 <pinref part="GND7" gate="1" pin="GND"/>
 <wire x1="-167.64" y1="116.84" x2="-167.64" y2="109.22" width="0.1524" layer="91"/>
@@ -8894,7 +8894,7 @@ conditions</text>
 <wire x1="388.62" y1="-307.34" x2="388.62" y2="-304.8" width="0.1524" layer="91"/>
 </segment>
 </net>
-<net name="+5V" class="1">
+<net name="+5V" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="VCC"/>
 <wire x1="330.2" y1="149.86" x2="332.74" y2="149.86" width="0.1524" layer="91"/>
