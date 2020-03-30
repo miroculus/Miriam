@@ -1,6 +1,6 @@
 # Software and Firmware - GPLv3
 
-(c) 2016 Juho Terrijarvi juho@miroculus.com, Miroculus Inc.
+(c) 2016 Juho Terrijarvi juho.terrijarvi@gmail.com, Miroculus Inc.
 (c) 2014 Juanjo Tara j.tara@arduino.cc, Arduino Verkstad AB (for Firmware)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.

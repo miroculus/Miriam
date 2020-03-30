@@ -1,8 +1,8 @@
-# UH_006
+# UH_007
 
-- 1 layer PCB
+- 2 layer PCB
+- One sided assembly
 - material FR4
-
 - 1oz copper
 - 1.6 mm thick
 - Leadfree HAL
