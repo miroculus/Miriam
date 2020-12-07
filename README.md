@@ -1,6 +1,8 @@
 Miriam
 ========
 
+**🆕📻⚠️ IMPORTANT: A more updated repository which fixes several critical bugs is at https://github.com/strawlab/Miriam .**
+
 [![License](https://i.creativecommons.org/l/by-sa/3.0/80x15.png?style=flat-square)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Copyright Miroculus Inc.2016
